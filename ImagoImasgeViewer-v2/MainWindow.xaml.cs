@@ -20,7 +20,7 @@ using System.Collections.ObjectModel;
 using System.Collections.Specialized;
 using System.Threading;
 
-namespace ImagoImasgeViewer_v2
+namespace ImasgeViewer_v2
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

@@ -6,8 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace ImagoImasgeViewer_v2
-{
+namespace ImasgeViewer_v2 {
     /// <summary>
     /// Interaction logic for App.xaml
     /// </summary>

@@ -2,8 +2,7 @@
 using System.Drawing;
 
 
-namespace ImagoImasgeViewer_v2
-{
+namespace ImasgeViewer_v2 {
     public class CoreImageModel 
     {
         public string imageLabel { get; set; }
