@@ -1,0 +1,5 @@
+workspace,dataset,collection,imageryType,imageType,imageryName,startDepth,endDepth,x,y,z,filePath
+Firefly Resource Development,Drilling Core,AADD0141,Core Boxes,Dry,,0,3.4,,,,.\Firefly Resource Development\Drilling Core\AADD0141\Core Boxes\AADD0141_0.0000_3.4000_Dry.jpg
+Firefly Resource Development,Drilling Core,AADD0141,Core Boxes,Wet,,0,3.4,,,,.\Firefly Resource Development\Drilling Core\AADD0141\Core Boxes\AADD0141_0.0000_3.4000_Wet.jpg
+Firefly Resource Development,Drilling Core,AADD0141,Core Boxes,Dry,,10.2,13.9,,,,.\Firefly Resource Development\Drilling Core\AADD0141\Core Boxes\AADD0141_10.2000_13.8700_Dry.jpg
+Firefly Resource Development,Drilling Core,AADD0141,Core Boxes,Wet,,10.2,13.87,,,,.\Firefly Resource Development\Drilling Core\AADD0141\Core Boxes\AADD0141_10.2000_13.8700_Wet.jpg

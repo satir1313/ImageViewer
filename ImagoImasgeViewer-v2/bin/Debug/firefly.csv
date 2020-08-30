@@ -1,0 +1,12 @@
+workspace,dataset,collection,imageryType,imageType,imageryName,startDepth,endDepth,x,y,z,filePath
+Firefly Resource Development,Drilling Core,AADD0141,Core Boxes,Dry,,0,3.4,,,,.\Firefly Resource Development\Drilling Core\AADD0141\Core Boxes\AADD0141_0.0000_3.4000_Dry.jpg
+Firefly Resource Development,Drilling Core,AADD0141,Core Boxes,Wet,,0,3.4,,,,.\Firefly Resource Development\Drilling Core\AADD0141\Core Boxes\AADD0141_0.0000_3.4000_Wet.jpg
+Firefly Resource Development,Drilling Core,AADD0141,Core Boxes,Dry,,10.2,13.9,,,,.\Firefly Resource Development\Drilling Core\AADD0141\Core Boxes\AADD0141_10.2000_13.8700_Dry.jpg
+Firefly Resource Development,Drilling Core,AADD0141,Core Boxes,Wet,,10.2,13.87,,,,.\Firefly Resource Development\Drilling Core\AADD0141\Core Boxes\AADD0141_10.2000_13.8700_Wet.jpg
+Firefly Resource Development,Drilling Core,AADD0141,Core Boxes,Dry,,13.87,18.3,,,,.\Firefly Resource Development\Drilling Core\AADD0141\Core Boxes\AADD0141_13.8700_18.3000_Dry.jpg
+Firefly Resource Development,Drilling Core,AADD0141,Core Boxes,Wet,,13.87,18.3,,,,.\Firefly Resource Development\Drilling Core\AADD0141\Core Boxes\AADD0141_13.8700_18.3000_Wet.jpg
+Firefly Resource Development,Drilling Core,AADD0141,Core Boxes,Dry,,18.3,22.19,,,,.\Firefly Resource Development\Drilling Core\AADD0141\Core Boxes\AADD0141_18.3000_22.1900_Dry.jpg
+Firefly Resource Development,Drilling Core,AADD0141,Core Boxes,Dry,,3.3,6.78,,,,.\Firefly Resource Development\Drilling Core\AADD0141\Core Boxes\AADD0141_3.3000_6.7800_Dry.jpg
+Firefly Resource Development,Drilling Core,AADD0141,Core Boxes,Wet,,3.3,6.78,,,,.\Firefly Resource Development\Drilling Core\AADD0141\Core Boxes\AADD0141_3.3000_6.7800_Wet.jpg
+Firefly Resource Development,Drilling Core,AADD0141,Core Boxes,Dry,,6.78,10.2,,,,.\Firefly Resource Development\Drilling Core\AADD0141\Core Boxes\AADD0141_6.7800_10.2000_Dry.jpg
+Firefly Resource Development,Drilling Core,AADD0141,Core Boxes,Wet,,6.78,10.2,,,,.\Firefly Resource Development\Drilling Core\AADD0141\Core Boxes\AADD0141_6.7800_10.2000_Wet.jpg
